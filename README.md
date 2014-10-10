@@ -1,7 +1,7 @@
 # README #
 
 This is a template Ansible playbook structure.
-It is designed to be the base for new Ansible Playbook projects setting out a folder structure alon ght e Ansible best practices guidelines.
+It is designed to be the base for new Ansible Playbook projects setting out a folder structure along the lines of Ansible best practices guidelines.
 Any suggestions for improvements to this use the issue queue or tweet me @ibluebag
 
 ## Usage
