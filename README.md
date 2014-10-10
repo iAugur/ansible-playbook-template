@@ -9,7 +9,7 @@ Any suggestions for improvements to this use the issue queue or tweet me @iblueb
 Download this (as opposed to cloning it) to form the base of a new project.
 Edit as required and update the readme specific to your project.
 A sample base role is provided that you can use.
-To create new roles use the following command in terminla within the roles directory.
+To create new roles use the following command in terminal within the roles directory.
 ````
 ansible-galaxy init 'newrolename'
 ````
