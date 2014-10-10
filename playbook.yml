@@ -1,0 +1,14 @@
+---
+- hosts: all
+  gather_facts: true
+  sudo: true
+  
+  pre_tasks:
+  
+  roles:
+    - { role: base , tags: ["base"] }
+    
+
+
+  handlers:
+    - include: common/handlers/main.yml
